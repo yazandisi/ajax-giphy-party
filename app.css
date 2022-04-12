@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(8, 8, 43);
+}
+img{
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1 {
+    text-align: center;
+    background-color: rgb(39, 56, 94);
+    color: white;
+    font-size: 5vw;
+}
+form {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+input{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+    font-size: 4vw;
+}
+button{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    width: 50%;
+    font-size: 3vw;
+    background-color: black;
+    color: wheat;
+}
+.removeButton{
+    background-color: red;
+}
